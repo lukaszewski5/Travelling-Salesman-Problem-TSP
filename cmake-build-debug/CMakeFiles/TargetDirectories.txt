@@ -1,0 +1,3 @@
+C:/zadaniaprogramowanie/zpo/c++_zpo/projekt/cmake-build-debug/CMakeFiles/tsp.dir
+C:/zadaniaprogramowanie/zpo/c++_zpo/projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/zadaniaprogramowanie/zpo/c++_zpo/projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
